@@ -8,7 +8,3 @@ groceries = {
 }
 
 puts get_the_keys(groceries)
-
-def get_the_keys(groceries)
-  groceries.keys.flatten
-end
